@@ -1,5 +1,7 @@
 # Electromyogram-based classification of hand and finger gestures using artificial neural networks
 
+**Ji Young Min (github: wnet500) and Kyung Hyun Lee (github: Jovinus) contributed equally to this work.**
+
 The codes for `2.6 Modeling` in Materials and Methods of the paper are available.
 
 *** Note that all codes are executable ONLY if your own data exist
